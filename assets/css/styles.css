@@ -487,8 +487,8 @@ body.light-theme{
 
 /*=============== SKILLS ===============*/
 .skills__container {
-  row-gap: 1rem;
-  padding: 1rem 25rem;
+  row-gap: 2rem;
+  padding-top: 1rem;
 }
 
 .skills__content {
